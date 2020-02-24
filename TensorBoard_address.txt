@@ -1,0 +1,5 @@
+http://DESKTOP-8U6LF35:6006
+
+tensorboard --logdir "C:\Users\Qi\Desktop\final Project -version 4\copy\unfixed_with_averagePooling"
+tensorboard --logdir "C:\Users\Qi\Desktop\final Project -version 4\copy\fixed_with_averagePooling"
+tensorboard --logdir "C:\Users\Qi\Desktop\final Project -version 4\copys\fixed_with_fixedCNN"
